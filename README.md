@@ -4,7 +4,9 @@ Below are the screenshots of the created news article component
 ![image](https://user-images.githubusercontent.com/6778416/158190376-9dda6f95-c9b9-4853-936a-6ac97137f333.png)
 # Tablet view
 ![image](https://user-images.githubusercontent.com/6778416/158191000-a8754e7a-6baa-455e-9bf2-7b9a8784da42.png)
-# Mobile view - I have explicity styled the border of each news article card with a elegant border to distinguish between each other when stacked
+# Mobile view
+- I have explicity styled the border of each news article card with a elegant border to distinguish between each other when stacked
+
 ![image](https://user-images.githubusercontent.com/6778416/158191151-9e4fbe40-fa9e-4903-8d56-d1500409dd07.png)
 
 
