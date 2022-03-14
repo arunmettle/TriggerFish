@@ -1,0 +1,47 @@
+﻿body {
+    .news-feed-row {
+        background-color: #f8f9fa;
+        padding-top: 15px;
+
+        .news-feed-col {
+            @media(max-width: 576px) {
+                margin-bottom: 10px;
+                border-bottom: 0.25px solid #dee2e6;
+            }
+
+            .news-feed-card {
+                width: 100%;
+
+                .news-feed-card-img {
+                    width: 100%;
+                    height: 200px;
+                }
+
+                .card-body {
+                    .card-title {
+                        font-weight: bold;
+                    }
+
+                    .card-text {
+                        font-size: 12px;
+                    }
+
+                    .news-feed-card-link {
+                        font-size: 20px;
+                        display: flex;
+                        justify-content: flex-start;
+                        align-items: center;
+                        color: black;
+                        padding: 6px 0px;
+
+                        i {
+                            font-size: 26px;
+                            margin-right: 5px;
+                            color: blue;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
