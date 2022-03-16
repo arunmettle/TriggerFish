@@ -19,7 +19,8 @@
 
                 .card-body {
                     .card-title {
-                        font-weight: bold;
+                        font-weight: 700;
+                        font-size: 17px;
                     }
 
                     .card-text {
@@ -27,17 +28,20 @@
                     }
 
                     .news-feed-card-link {
-                        font-size: 20px;
+                        font-size: 14px;
+                        font-weight: 700;
                         display: flex;
                         justify-content: flex-start;
                         align-items: center;
                         color: black;
                         padding: 6px 0px;
+                        text-transform: uppercase;
 
                         i {
                             font-size: 26px;
                             margin-right: 5px;
                             color: blue;
+                            line-height: 20px;
                         }
                     }
                 }
